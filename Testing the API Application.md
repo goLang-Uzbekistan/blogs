@@ -2,7 +2,6 @@
 - Postman: https://www.postman.com/
 - Insomnia: https://insomnia.rest/
 - Swagger: https://swagger.io/
-- OpenAPI: https://www.openapis.org/
 - Stoplight: https://stoplight.io/
 - Paw: https://paw.cloud/
 - SoapUI: https://www.soapui.org/
