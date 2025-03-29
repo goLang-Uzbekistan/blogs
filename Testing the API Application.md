@@ -5,7 +5,6 @@
 - Stoplight: https://stoplight.io/
 - Paw: https://paw.cloud/
 - SoapUI: https://www.soapui.org/
-- Restlet: https://restlet.com/
 
 ____________________________________________________
 # Testing the API for terminal: cURL CRUD operations
